@@ -1,4 +1,27 @@
 {
+<<<<<<< HEAD
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+=======
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -33,5 +56,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+>>>>>>> 0652061cc5644e84f7d9dc21a6037ef254c02ad7
   }
 }
